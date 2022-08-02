@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d0ma1nn
-- 👀 I’m interested in Front-end particulary vanilla front end, css/html/js
-- 🌱 I’m currently learning front-end in general
+- 👀 I’m interested in Front-end.
+- 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to learn more and more.
 <!--- 📫 How to reach me here, only way to type comment somewhere on project.--->
 
